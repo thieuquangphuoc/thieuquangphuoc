@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td><b>Research AI</b></td>
+    <td><b>AI & Data Science</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
